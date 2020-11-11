@@ -1,2 +1,2 @@
 # presentations
-prvoides a few presentations on miscellenaous topics
+In this directory you will find a few presentations on miscellaneous topics: quantum mechanics, cryptography,etc.
